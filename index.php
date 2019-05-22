@@ -22,7 +22,7 @@
     margin-top: 15px !important;
   }
 
-  div.photos>tbody>tr>td>img {
+  div.photos>div>a>img {
     object-fit: cover;
     width: 230px;
     height: 230px;
