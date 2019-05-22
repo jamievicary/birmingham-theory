@@ -35,6 +35,8 @@
     margin-top: 20px;
     margin-left: 10px;
     margin-right: 10px;
+    font-size: 1.3em;
+    line-height: 1.3em;
   }
 
 </style>
