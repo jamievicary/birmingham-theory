@@ -21,6 +21,12 @@
     margin-left: 0.5px !important;
     margin-top: 15px !important;
   }
+
+  div.photos>tbody>tr>td>img {
+    object-fit: cover;
+    width: 230px;
+    height: 230px;
+  }
 </style>
 
 <!-- TemplateParam name="title" type="text" value="" -->
