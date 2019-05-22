@@ -24,14 +24,14 @@
 
   div.photos>div>a>img {
     object-fit: cover;
-    width: 230px;
-    height: 230px;
+    width: 130px;
+    height: 130px;
   }
 
   div.photos>div {
     display: inline-block;
   }
-  
+
 </style>
 
 <!-- TemplateParam name="title" type="text" value="" -->
