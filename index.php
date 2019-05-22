@@ -26,7 +26,7 @@
     object-fit: cover;
     width: 130px;
     height: 130px;
-    margin-bottom: 5px;
+    margin: 0px 0px 5px 0px !important;
   }
 
   div.photos>div {
