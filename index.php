@@ -27,6 +27,11 @@
     width: 230px;
     height: 230px;
   }
+
+  div.photos>div {
+    display: inline-block;
+  }
+  
 </style>
 
 <!-- TemplateParam name="title" type="text" value="" -->
