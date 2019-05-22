@@ -32,6 +32,9 @@
   div.photos>div {
     display: inline-block;
     text-align: center;
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
   }
 
 </style>
