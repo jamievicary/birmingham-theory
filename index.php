@@ -17,8 +17,8 @@
   <link href="nav.css" rel="stylesheet" type="text/css" />
 
 <style>
-  h1 {
-    margin-left: -0.5px !important;
+  h1.theory {
+    margin-left: 0.5px !important;
     margin-top: 15px !important;
   }
 </style>
@@ -38,6 +38,8 @@
 ?>
 
 <!-- #BeginEditable "content" -->
+
+<h1 class="theory">Theoretical computer science</h1>
 
 <?php include 'overview.html';?>
 <?php include 'seminars.html';?>
