@@ -26,10 +26,12 @@
     object-fit: cover;
     width: 130px;
     height: 130px;
+    margin-bottom: 5px;
   }
 
   div.photos>div {
     display: inline-block;
+    text-align: center;
   }
 
 </style>
