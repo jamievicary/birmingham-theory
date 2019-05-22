@@ -17,7 +17,7 @@
   <link href="nav.css" rel="stylesheet" type="text/css" />
 
 <style>
-  h1.jamie {
+  h1 {
     margin-left: -0.5px !important;
     margin-top: 15px !important;
   }
