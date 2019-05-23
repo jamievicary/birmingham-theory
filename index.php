@@ -23,7 +23,7 @@
   }
 
   #theory {
-    font-size: 1.4em;
+    font-size: 1.3em;
   }
 
   #theory>div.photos>div>a>img, #theory>div.photos>div>img {
@@ -34,7 +34,7 @@
   }
 
   #theory>div.photos {
-    font-size: 1.3em;
+    font-size: 1.2em;
   }
 
   #theory>div.photos>div {
