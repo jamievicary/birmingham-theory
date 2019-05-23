@@ -22,6 +22,10 @@
     margin-top: 15px !important;
   }
 
+  p {
+    font-size: 1.4em;
+  }
+
   div.photos>div>a>img {
     object-fit: cover;
     width: 130px;
