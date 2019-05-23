@@ -58,8 +58,6 @@
 
 <!-- #BeginEditable "content" -->
 
-<h1 class="theory">Theoretical computer science</h1>
-
 <?php include 'overview.html';?>
 <?php include 'seminars.html';?>
 <?php include 'joining.html';?>
