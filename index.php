@@ -19,8 +19,8 @@
 <style>
   
   #theory>h1 {
-    margin-left: 0.5px !important;
-    margin-top: 15px !important;
+    margin-left: 0.3px !important;
+    margin-top: 20px !important;
   }
 
   #theory {
