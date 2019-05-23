@@ -26,7 +26,7 @@
     font-size: 1.4em;
   }
 
-  div.theory>div.photos>div>a>img {
+  div.theory>div.photos>div>a>img, div.theory>div.photos>div>img {
     object-fit: cover;
     width: 130px;
     height: 130px;
