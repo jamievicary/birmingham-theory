@@ -17,6 +17,7 @@
   <link href="nav.css" rel="stylesheet" type="text/css" />
 
 <style>
+  
   #theory>h1 {
     margin-left: 0.5px !important;
     margin-top: 15px !important;
@@ -45,6 +46,8 @@
     margin-right: 10px;
     margin-bottom: 15px;
     line-height: 1.3em;
+    max-width: 150px;
+    vertical-align: top;
   }
 
 </style>
