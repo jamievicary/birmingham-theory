@@ -64,7 +64,7 @@
 
 <div class="theory">
 <?php include 'overview.html';?>
-<?php include 'seminars.html';?>
+<?php include 'events.html';?>
 <?php include 'joining.html';?>
 <?php include 'people.html';?>
 </div>
