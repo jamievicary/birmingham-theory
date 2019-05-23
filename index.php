@@ -17,23 +17,23 @@
   <link href="nav.css" rel="stylesheet" type="text/css" />
 
 <style>
-  div.theory>h1 {
+  #theory>h1 {
     margin-left: 0.5px !important;
     margin-top: 15px !important;
   }
 
-  div.theory>p {
+  #theory {
     font-size: 1.5em;
   }
 
-  div.theory>div.photos>div>a>img, div.theory>div.photos>div>img {
+  #theory>div.photos>div>a>img, #theory>div.photos>div>img {
     object-fit: cover;
     width: 150px;
     height: 150px;
     margin: 0px 0px 5px 0px !important;
   }
 
-  div.theory>div.photos>div {
+  #theory>div.photos>div {
     display: inline-block;
     text-align: center;
     margin-top: 0px;
@@ -62,7 +62,7 @@
 
 <!-- #BeginEditable "content" -->
 
-<div class="theory">
+<div id="theory">
 <?php include 'overview.html';?>
 <?php include 'events.html';?>
 <?php include 'joining.html';?>
