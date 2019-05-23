@@ -23,13 +23,13 @@
   }
 
   div.theory>p {
-    font-size: 1.4em;
+    font-size: 1.5em;
   }
 
   div.theory>div.photos>div>a>img, div.theory>div.photos>div>img {
     object-fit: cover;
-    width: 130px;
-    height: 130px;
+    width: 150px;
+    height: 150px;
     margin: 0px 0px 5px 0px !important;
   }
 
@@ -39,7 +39,7 @@
     margin-top: 0px;
     margin-left: 10px;
     margin-right: 10px;
-    margin-bottom: 10px;
+    margin-bottom: 15px;
     font-size: 1.3em;
     line-height: 1.3em;
   }
