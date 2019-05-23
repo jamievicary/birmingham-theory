@@ -23,7 +23,7 @@
   }
 
   #theory {
-    font-size: 1.5em;
+    font-size: 1.4em;
   }
 
   #theory>div.photos>div>a>img, #theory>div.photos>div>img {
@@ -33,6 +33,10 @@
     margin: 0px 0px 5px 0px !important;
   }
 
+  #theory>div.photos {
+    font-size: 1.3em;
+  }
+
   #theory>div.photos>div {
     display: inline-block;
     text-align: center;
@@ -40,7 +44,6 @@
     margin-left: 10px;
     margin-right: 10px;
     margin-bottom: 15px;
-    font-size: 1.3em;
     line-height: 1.3em;
   }
 
