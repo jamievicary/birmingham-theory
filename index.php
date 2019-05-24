@@ -19,8 +19,12 @@
 <style>
   
   #theory>h1 {
-    margin-left: 0.3px !important;
+    margin-left: 0.5px !important;
     margin-top: 20px !important;
+  }
+
+  #theory>h1:first-child {
+    margin-top: 0px !important;
   }
 
   #theory {
