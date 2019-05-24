@@ -20,7 +20,7 @@
   
   #theory>h1 {
     margin-left: 0.5px !important;
-    margin-top: 20px !important;
+    margin-top: 30px !important;
   }
 
   #theory>h1:first-child {
