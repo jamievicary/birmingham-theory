@@ -77,6 +77,7 @@
 <?php include 'events.html';?>
 <?php include 'joining.html';?>
 <?php include 'people.html';?>
+<?php include 'updating.html';?>
 </div>
 
 <!-- #EndEditable -->
