@@ -24,7 +24,7 @@
   }
 
   #theory>h1:first-child {
-    margin-top: 0px !important;
+    margin-top: 5px !important;
   }
 
   #theory {
